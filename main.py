@@ -10,7 +10,7 @@ import time
 
 print("╔═════════*.·:·.☽✧    ✦    ✧☾.·:·.*═════════╗")
 time.sleep(1)
-print("                                            RiddBuzz             ")
+print("                    RiddBuzz             ")
 time.sleep(1)
 print("╚═════════*.·:·.☽✧    ✦    ✧☾.·:·.*═════════╝")
 time.sleep(1)
@@ -875,7 +875,7 @@ def end():
   print()
   print("  •───────•°•❀•°•───────•")
   time.sleep(0.5)     
-  print("              **   THANK YOU  ** ")
+  print("     **  THANK YOU  ** ")
   time.sleep(0.5)
   print(" •───────•°•❀•°•───────•")
 end()
